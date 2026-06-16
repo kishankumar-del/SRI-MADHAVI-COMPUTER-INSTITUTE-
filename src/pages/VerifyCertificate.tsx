@@ -368,7 +368,7 @@ export default function VerifyCertificate() {
                 </div>
 
                 <div className="pt-6 border-t border-slate-100 flex justify-between items-center text-xs text-slate-500 font-semibold">
-                  <span>Authorized Signature: Dr. K. Narayana Rao</span>
+                  <span>Authorized Signature: V.V.NARAYANA</span>
                   <span className="bg-slate-50 px-3 py-1 text-[10px] rounded border border-slate-200">ISO Certified Compliance</span>
                 </div>
               </div>
