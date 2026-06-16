@@ -4,7 +4,7 @@
       "id": "admin-1",
       "name": "Sri Madhavi Admin",
       "email": "admin@narayana.com",
-      "passwordHash": "3c3cc2a9b8b7333861ef2268f84a67bb",
+      "passwordHash": "$argon2id$v=19$m=19456,t=2,p=1$PDzCqbi3Mzhh7yJo+Epnuw$Zoo37t6mlvfv+wZzx0P8gWwiMSxDX7O1aovaHXkMzg4",
       "role": "SuperAdmin"
     }
   ],
