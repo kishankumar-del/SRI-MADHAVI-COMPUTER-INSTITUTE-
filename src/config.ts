@@ -7,19 +7,19 @@ export const INSTITUTE_CONFIG = {
   shortName: "Sri Madhavi",
   slogan: "Nurturing Skills, Shaping Futures",
   tagline: "Premier Programming Training Institute with 100% Practical Exposure & Expert Mentorship",
-  founder: "Dr. K. Narayana Rao",
-  foundedYear: "2012",
+  founder: "V.V.NARAYANA",
+  foundedYear: "2022",
   directorMessage: "At Sri Madhavi Computer Institute, we believe every line of code written is a step towards a digital future. Our training philosophy focuses purely on standard industry practices, exhaustive DSA execution, logic-building, and robust design. We do not just teach structures; we transform student methodologies to align directly with modern tech needs.",
 
   // Contact Information
   contact: {
-    mobile: "+91 94909 51700",
+    mobile: "+91 94909 51795",
     alternateMobile: "+91 80081 23456",
     email: "admissions@srimadhavi.com",
     supportEmail: "info@srimadhavi.com",
-    address: "3rd Floor, Srinivasa Heights, Nearby Tech Hub Metro, Hitech City, Hyderabad, Telangana - 500081",
+    address: "Shop No: 19, Surampudi Enclave, Opposite TDP office, Rastrapathi Road, Tanuku, 534211",
     googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789012!2d78.3821012345678!3d17.4485012345678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9158ff123457%3A0x12345678abcdef!2sHitech+City%2C+Hyderabad!5e0!3m2!1sen!2sin!4v1627390000000!5m2!1sen!2sin",
-    whatsappNumber: "919490951700", // Format without symbols for direct link api
+    whatsappNumber: "919490951795", // Format without symbols for direct link api
     whatsappMessage: "Hi, I am interested in joining Sri Madhavi Computer Institute. Please guide me regarding current course slots and admission procedures.",
   },
 
@@ -28,7 +28,7 @@ export const INSTITUTE_CONFIG = {
     studentsTrained: "18,500+",
     coursesOffered: "14+",
     labPracticalRatio: "100%",
-    activeMentors: "15+",
+    activeMentors: "1",
     weeklyPracticeHrs: "40+ Hrs"
   },
 
